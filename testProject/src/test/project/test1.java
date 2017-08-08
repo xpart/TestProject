@@ -8,7 +8,8 @@ public class test1 {
 		
 	ChromeDriver driver=new ChromeDriver();
 	driver.get("https://www.facebook.com/");
-	System.out.println("Annie");	
+	System.out.println("Annie");
+		System.out.println("courage");
 	}
 
 }
